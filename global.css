@@ -69,3 +69,10 @@ p {
 a img{
   object-fit: cover;
 }
+.form-control{
+  background-color: #f8f9f8;
+  border-radius: 0 ;
+}
+.bg-black{
+  background-color: #000;
+}
