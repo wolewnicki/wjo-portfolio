@@ -39,3 +39,11 @@ nav a:hover{
 .border-img {
   border: 4px solid grey;
 }
+
+.card * {
+  margin: 0;
+}
+
+p {
+  font-size: 14px;
+}
