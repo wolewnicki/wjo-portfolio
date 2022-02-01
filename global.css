@@ -47,3 +47,25 @@ nav a:hover{
 p {
   font-size: 14px;
 }
+
+.row a {
+  text-decoration: none;
+  color: black;
+  transition: all .2s ease-in-out;
+}
+.row a:hover {
+  transform: scale(1.1);
+}
+.card:hover {
+  box-shadow: 0 1rem 2rem rgba(0,0,0,.35) !important;
+  transition: all .4s ease-in-out;
+}
+.border-card{
+  border: solid 2px rgb(114, 114, 114);
+}
+.border-top-card{
+  border-top: solid 2px rgb(114, 114, 114);
+}
+a img{
+  object-fit: cover;
+}
